@@ -1,4 +1,2 @@
 <?php
-    echo "hello world";
-    echo "hello chuang";
-    echo "hello tang";
+    echo "工作区和暂存去的区别";
